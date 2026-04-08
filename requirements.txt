@@ -1,7 +1,7 @@
 streamlit
-numpy
-Pillow
-matplotlib
-scikit-learn
-icrawler
-tensorflow-cpu
+numpy==1.26.4
+Pillow==10.0.0
+matplotlib==3.8.0
+scikit-learn==1.3.2
+icrawler==0.6.7
+tensorflow==2.13.0
