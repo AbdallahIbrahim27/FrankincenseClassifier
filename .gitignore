@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+
+# Data
+dataset/
+
+# Logs
+logs/
+
+# Trained Models
+models/
+
+# Evaluation outputs
+evaluation/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ML model files
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
