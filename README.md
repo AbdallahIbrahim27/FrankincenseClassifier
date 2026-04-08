@@ -1,5 +1,3 @@
-# FrankincenseClassifier
-
 # 🌿 Frankincense Resin Classifier
 
 موديل Image Classification يصنف حالة راتنج البخور على شجرة Boswellia.
